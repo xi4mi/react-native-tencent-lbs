@@ -3,17 +3,16 @@
  * @flow
  */
 'use strict';
+import {NativeModules} from 'react-native';
 
-var NativeRNTencentLBS = require('NativeModules').RNTencentLBS;
+var NativeRNTencentLBS = NativeModules.RNTencentLBS;
 
 /**
  * High-level docs for the RNTencentLBS iOS API can be written here.
  */
 
 var RNTencentLBS = {
-  test: function() {
-    NativeRNTencentLBS.test();
-  }
+  ...NativeRNTencentLBS
 };
 
 module.exports = RNTencentLBS;
