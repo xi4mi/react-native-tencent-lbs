@@ -1,11 +1,11 @@
 {
   "name": "react-native-tencent-lbs",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "keywords": [
     "react-native"
   ],
   "description": "Tencent LBS for React Native",
-  "main": "index.js",
+  "main": "RNTencentLBS.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
