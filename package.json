@@ -1,0 +1,22 @@
+{
+  "name": "react-native-tencent-lbs",
+  "version": "0.0.2",
+  "keywords": [
+    "react-native"
+  ],
+  "description": "Tencent LBS for React Native",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yanpeipan/react-native-tencent-lbs.git"
+  },
+  "author": "yanpeipan",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/yanpeipan/react-native-tencent-lbs/issues"
+  },
+  "homepage": "https://github.com/yanpeipan/react-native-tencent-lbs#readme"
+}
